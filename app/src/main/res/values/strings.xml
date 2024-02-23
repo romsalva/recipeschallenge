@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RecipesChallenge</string>
+    <string name="desc_back">Back</string>
+    <string name="desc_search">Search</string>
+    <string name="desc_close">Close</string>
+    <string name="desc_clear_filter">Clear Filter</string>
+    <string name="recipes">Recipes</string>
+    <string name="recipe">Recipe</string>
+    <string name="origin">Origin</string>
+    <string name="refresh">Refresh</string>
+    <string name="database_error">Database Error %1$s</string>
+    <string name="network_error">Network Error: %1$s</string>
+    <string name="generic_error">Error: %1$s</string>
+</resources>
